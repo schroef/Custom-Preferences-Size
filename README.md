@@ -1,10 +1,11 @@
-# Custom Preferences Size [bl 2.80]
+# Custom Preferences Size
 
 >Original idea addon from <b>Pam Beep</b>
 
 I added a cleaner look to the panel and added the panel settings to option bool. I also added source image so users can pick image sequence or sinle image. I Also added is showing the image texture name above its size, this is very convienent because the source path only shows a very small section. This makes it much easier to identify the used texture.
 
 !['Preview wider preferences window'](https://raw.githubusercontent.com/wiki/schroef/Custom-Preferences-Size/images/cps-v001.jpg?2021-04-09)
+!['Preview wider preferences window'](https://raw.githubusercontent.com/wiki/schroef/Custom-Preferences-Size/images/cps-v001.mp4?2021-04-09)
 
 ## Cust Preferences Size
 
@@ -21,13 +22,13 @@ This addon is a simple solution to having a bigger size preferences panel. I mad
 
 | **OS** | **Blender** |
 | ------------- | ------------- |
-| OSX | Blender 2.80 |
-| Windows | Blender 2.80 |
+| OSX | Blender 2.80+ |
+| Windows | Blender 2.80+ |
 | Linux | Not Tested |
 
+<!-- 
 ### Blender 2.80 | Pre-release
-
-Try this pre-release branch for Blender 2.80: [bl280_dev](https://github.com/schroef/Custom-Preferences-Size/tree/v.0.0.1)
+Try this pre-release branch for Blender 2.80+: [v.0.0.1](https://github.com/schroef/Custom-Preferences-Size/tree/v.0.0.1) -->
 
 ### Installation Process
 

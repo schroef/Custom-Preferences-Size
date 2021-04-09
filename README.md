@@ -8,7 +8,7 @@ I added a cleaner look to the panel and added the panel settings to option bool.
 
 ![Preview](https://user-images.githubusercontent.com/6923008/114248198-09cb5800-9965-11eb-9397-3a593809f293.mp4)
 
-
+![prev](https://raw.githubusercontent.com/wiki/schroef/Custom-Preferences-Size/images/cps-v001.mp4)
 
 ## Cust Preferences Size
 

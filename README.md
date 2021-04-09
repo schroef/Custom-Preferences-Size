@@ -1,15 +1,13 @@
 # Custom Preferences Size
 
->Original idea addon from <b>Pam Beep</b>
+>Original post on Developer Blender: <b>[Pan Beeb / Post](https://developer.blender.org/T71935#818493/)</b>
 
-This addon is a simple solution to having a bigger size preferences panel. I made this after seeing a couple posts about the preferences window being to small. Since this request has been made quite some while back and nothing is updated i searched for a solution. Seeing this simple code on Developer Blender by Pan Beed, i decided to make simple add-on out if it for ease of use.
+This addon is a simple solution to having a bigger size preferences window. I made this after seeing a couple posts about the preferences window being to small. Since this request has been made a couple times and no update is done, i searched for a solution. Seeing this simple code on Developer Blender by Pan Beed, i decided to make simple add-on out if it for ease of use.
 
 >Click to preview
 
 [!['Preview wider preferences window'](https://raw.githubusercontent.com/wiki/schroef/Custom-Preferences-Size/images/cps-v001.jpg?2021-04-09)](https://user-images.githubusercontent.com/6923008/114248198-09cb5800-9965-11eb-9397-3a593809f293.mp4)
 
-
->Original post on Developer Blender: <b>[Pan Beeb / Post](https://developer.blender.org/T71935#818493/)</b>
 
 ## Features
 

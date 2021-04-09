@@ -6,7 +6,7 @@ I added a cleaner look to the panel and added the panel settings to option bool.
 
 !['Preview wider preferences window'](https://raw.githubusercontent.com/wiki/schroef/Custom-Preferences-Size/images/cps-v001.jpg?2021-04-09)
 
-![Preview]https://user-images.githubusercontent.com/6923008/114248198-09cb5800-9965-11eb-9397-3a593809f293.mp4
+![Preview](https://user-images.githubusercontent.com/6923008/114248198-09cb5800-9965-11eb-9397-3a593809f293.mp4)
 
 
 

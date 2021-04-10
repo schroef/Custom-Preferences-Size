@@ -5,8 +5,8 @@ bl_info = {
     "blender": (2, 80, 0),
     "location": "File > Edit > Custom Preferences Size",
     "description": "Set a custom size to the Preferences window",
-    "wiki_url": "https://github.com/schroef/Custom-Window-Size",
-    "tracker_url": "https://github.com/schroef/Custom-Window-Size/issues",
+    "wiki_url": "https://github.com/schroef/Custom-Preferences-Size",
+    "tracker_url": "https://github.com/schroef/Custom-Preferences-Size/issues",
     "category": "Preferences",
 }
 

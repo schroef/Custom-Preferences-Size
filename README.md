@@ -1,6 +1,6 @@
 # Custom Preferences Size
 
->Original post on Developer Blender: <b>[Pan Beep / Post](https://developer.blender.org/T71935#818493/)</b>
+>Original post on Developer Blender: <b>[Pan Beep / Post](https://developer.blender.org/T71935#818493)</b>
 
 This addon is a simple solution to having a bigger size preferences window. I made this after seeing a couple posts about the preferences window being to small. Since this request has been made a couple times and no update is done, i searched for a solution. Seeing this simple code on Developer Blender by Pan Beep, i decided to make simple add-on out if it for ease of use.
 

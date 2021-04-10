@@ -1,6 +1,6 @@
 bl_info = {
     "name": "Custom Preferences Size",
-    "author": "Rombout Versluijs, Pan Beeb (Beep)",
+    "author": "Rombout Versluijs, Pan Beep (Beep)",
     "version": (0, 0, 1),
     "blender": (2, 80, 0),
     "location": "File > Edit > Custom Preferences Size",

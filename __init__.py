@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 bl_info = {
     "name": "Custom Preferences Size",
     "author": "Rombout Versluijs, Pan Beep (Beep)",
